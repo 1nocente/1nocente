@@ -12,13 +12,14 @@
 
 **Aplicações e dados**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-flat&logo=kotlin)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-flat&logo=sqlite)
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Utilidades**
 
@@ -51,14 +52,6 @@
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nocente&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=1nocente&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
